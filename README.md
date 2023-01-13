@@ -4,8 +4,9 @@ In this project, We will be analysing the sentiment of people towards Pfizer vac
 
 ![image](https://user-images.githubusercontent.com/114472293/212365511-11aafbf7-20d2-467b-9fbc-140fe184d3ec.png)
 
+## Model Accuracy
 ![image](https://user-images.githubusercontent.com/114472293/212365936-a44e19bc-b06d-43a3-9fe6-9a391670845a.png)
 
-###### Confusion Matrix
+## Confusion Matrix
 
 ![image](https://user-images.githubusercontent.com/114472293/212366029-ec25f4b0-b657-4bc2-a03e-1450a31fca7c.png)
